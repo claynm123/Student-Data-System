@@ -1,0 +1,9 @@
+﻿  roster.cpp
+C:\Users\clayn\Desktop\Clays Documents\Programming Portfolio\Student_Data_System\Student_Data_System - Submission\Student_Data_System\roster.cpp(131,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\clayn\Desktop\Clays Documents\Programming Portfolio\Student_Data_System\Student_Data_System - Submission\Student_Data_System\roster.cpp(155,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\clayn\Desktop\Clays Documents\Programming Portfolio\Student_Data_System\Student_Data_System - Submission\Student_Data_System\roster.cpp(186,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  student.cpp
+  Student_Data_System.cpp
+  Generating Code...
+  LINK : C:\Users\clayn\Desktop\Clays Documents\Programming Portfolio\Student_Data_System\Student_Data_System - Submission\x64\Debug\Student_Data_System.exe not found or not built by the last incremental link; performing full link
+  Student_Data_System.vcxproj -> C:\Users\clayn\Desktop\Clays Documents\Programming Portfolio\Student_Data_System\Student_Data_System - Submission\x64\Debug\Student_Data_System.exe
