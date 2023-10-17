@@ -38,4 +38,7 @@ int main()
 
 	classRoster->~Roster();
 	delete classRoster;
+	std::cout << "Press Enter to exit...";
+	getchar(); // Wait for a keypress
+	return 0;
 }
